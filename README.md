@@ -17,3 +17,7 @@ gfortran <file-name>.f90 -o <file-name>
 <br>
 
 #### I used repl.it's IDLE to work on fortran, because I don't know how to install Fortran and GNU GCC Compiler for Windows.
+<br>
+
+## License? <br>
+**Public Domain**
