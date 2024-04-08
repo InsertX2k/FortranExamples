@@ -16,7 +16,7 @@ gfortran <file-name>.f90 -o <file-name>
 
 <br>
 
-#### I used repl.it's IDLE to work on fortran, because I don't know how to install Fortran and GNU GCC Compiler for Windows.
+#### I used repl.it's IDLE to work on fortran, because I was too lazy to install the compilers on my PC.
 <br>
 
 ## License? <br>
